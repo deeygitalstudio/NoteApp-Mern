@@ -2,7 +2,7 @@ import {Route, Routes} from "react-router"
 import Homepage from "./Pages/Homepage.jsx"
 import CreateNote from "./Pages/CreateNote.jsx"
 import NoteDetailsPage from "./Pages/NoteDetailsPage.jsx"
-
+import { ToastContainer } from "react-toastify"
 function App() {
 
 
